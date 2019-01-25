@@ -21,10 +21,10 @@
 	</tr>
 	<tr>
 		<td></td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 </tbody>
 </table>
